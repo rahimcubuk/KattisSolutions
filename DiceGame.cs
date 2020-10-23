@@ -2,7 +2,7 @@
 //CPU Time limit: 1 second
 //Memory limit: 1024 MB
 //Difficulty: 1.5
-//
+// Rahim Çubuk: rahimcubuk@gmail.com
 /*
 	- DICE GAME
 	Gunnar and Emma play a lot of board games at home, so they own many dice that are 

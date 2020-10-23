@@ -2,6 +2,7 @@
 //CPU Time limit: 5 seconds
 //Memory limit: 1024 MB
 //Difficulty: 1.2
+// Rahim Çubuk: rahimcubuk@gmail.com
 /*
 	- INPUT
 There is no input for this problem.

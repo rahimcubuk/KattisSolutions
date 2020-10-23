@@ -2,7 +2,7 @@
 //CPU Time limit: 1 second
 //Memory limit: 1024 MB
 //Difficulty: 1.5
-
+// Rahim Çubuk: rahimcubuk@gmail.com
 /*
 	- DIGIT PRODUCT
 	Consider a positive integer x. Multiply its nonzero digits and you get another 

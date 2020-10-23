@@ -2,6 +2,7 @@
 //CPU Time limit: 1 second
 //Memory limit: 1024 MB
 //Difficulty: 1.3
+// Rahim Çubuk: rahimcubuk@gmail.com
 /*
 	- R2 Problem
 	The number S is called the mean of two numbers R1 and R2 if S is equal to 

@@ -2,6 +2,7 @@
 //CPU Time limit: 1 second
 //Memory limit: 1024 MB
 //Difficulty: 1.4
+// Rahim Çubuk: rahimcubuk@gmail.com
 /*
 	- PET
 	In the popular show “Dinner for Five”, five contestants compete in preparing culinary 
